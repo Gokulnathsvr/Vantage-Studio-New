@@ -24,3 +24,12 @@ Visual Vantage Studio serves as a digital portfolio and creative platform. Built
 ## 🚀 Live Demo
 Experience the live application here: [Visual Vantage Studio](https://visualvantagestudio.netlify.app/)
 
+🎨 Design Process
+The development of Visual Vantage Studio began with extensive visual planning to establish a highly engaging interface. The project leverages detailed landscape storyboarding to map out the user journey step-by-step before writing any code. Translating these initial concepts—often exploring unique, bold directions like comic-style aesthetics—into structured mid-fidelity UI desktop mockups ensured a solid foundation. This structured, design-first approach guarantees that the final application remains true to the studio's overarching creative vision.
+
+📝 Copyright & License
+© 2026 Gokulnath V
+
+This project was created and is owned by Gokulnath V. All rights reserved.
+No part of this project, including the code, design, or textual content, may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the owner.
+
